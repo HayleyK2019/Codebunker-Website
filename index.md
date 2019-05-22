@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my website! ##
 
-You can use the [editor on GitHub](https://github.com/HayleyK2019/Codebunker-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### This is a where my title will go ###
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_This is general information about the website_
 
-### Markdown
+This is my other website 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+----> [EWE4You](http://ewe4you.pythonanywhere.com/) <----
 
 ```markdown
 Syntax highlighted code block
